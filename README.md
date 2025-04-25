@@ -16,6 +16,7 @@ Use a sua magia (ou habilidades de programação) para revelar o que está ocult
 
 Exemplo de Entrada:
 Mensagem codificada: "oz rdfn"
+
 Deslocamento: 3
 
 Saída Esperada:
